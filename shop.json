@@ -15,5 +15,20 @@
       "ownership_id": "vip_perks",
       "installable": false
     }
+    {
+      "id": "elixr_slotted",
+      "title": "Elixr Slotted",
+      "subtitle": "Patreon",
+      "price": "$20/month",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/reward/28196373/0d500778df994cab8fb0df201d4e4dd1/eyJ3Ijo0MDB9/1.jpg?token-hash=g8_ZZLTZ2sjZt47Nk5ZEtRlVODQEcPdbxjBy8g74zRg%3D",
+      "url": "https://www.patreon.com/15745599/join",
+      "enabled": true,
+      "tag": "10 Slots (Currently Unavailable)",
+      "description": "Private version of Elixr with exclusive perks.",
+    
+      "groups": ["admin", "administrator"],
+      "ownership_id": "elixr_slotted",
+      "installable": true
+    }
   ]
 }
