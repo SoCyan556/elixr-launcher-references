@@ -12,7 +12,8 @@
       "description": "Unlock exclusive ELIXR features, perks, and future modules.",
       "groups": ["beta_tester", "vip", "admin", "administrators"],
       "ownership_id": "vip_perks",
-      "installable": false
+      "installable": false,
+      "type": "module"
     },
     {
       "id": "elixr_slotted",
@@ -26,7 +27,8 @@
       "description": "Private version of Elixr with exclusive perks.",
       "groups": [],
       "ownership_id": "elixr_slotted",
-      "installable": true
+      "installable": true,
+      "type": "tool"
     }
   ]
 }
