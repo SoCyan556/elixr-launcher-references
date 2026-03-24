@@ -11,7 +11,7 @@
       "tag": "Popular",
       "description": "Unlock exclusive ELIXR features, perks, and future modules.",
 
-      "groups": ["beta_tester", "vip"],
+      "groups": ["beta_tester", "vip", "admin"],
       "ownership_id": "vip_perks",
       "installable": false
     }
