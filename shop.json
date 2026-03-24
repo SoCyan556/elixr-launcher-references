@@ -26,7 +26,7 @@
       "tag": "10 Slots (Currently Unavailable)",
       "description": "Private version of Elixr with exclusive perks.",
     
-      "groups": ["admin", "administrators"],
+      "groups": [],
       "ownership_id": "elixr_slotted",
       "installable": true
     }
