@@ -5,11 +5,15 @@
       "title": "Vip Perks",
       "subtitle": "Patreon",
       "price": "$5/month",
-      "image": "icons/Vip_Module.jpg",
+      "image": "https://your-cdn-or-patreon-image-url",
       "url": "https://www.patreon.com/15745599/join",
       "enabled": true,
       "tag": "Popular",
-      "description": "Unlock exclusive ELIXR features, perks, and future modules."
+      "description": "Unlock exclusive ELIXR features, perks, and future modules.",
+
+      "groups": ["beta_tester", "vip"],
+      "ownership_id": "vip_perks",
+      "installable": false
     }
   ]
 }
