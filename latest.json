@@ -5,8 +5,8 @@
   },
   "products": {
     "vrtool": {
-      "version": "2.3.0",
-      "url": "https://github.com/SoCyan556/elixr-vrtool/releases/download/v2.3.0/VRTool.zip",
+      "version": "2.3.1",
+      "url": "https://github.com/SoCyan556/elixr-vrtool/releases/download/v2.3.1/VRTool.zip",
       "exe_name": "VRTool.exe",
       "install_folder": "elixrvrtool"
     },
