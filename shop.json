@@ -40,7 +40,7 @@
       "enabled": true,
       "tag": "ADMIN",
       "description": "Manage users, permissions, logs, and moderation tools for ELIXR.",
-      "groups": ["admin"],
+      "groups": ["admin", "administrator", "mod"],
       "ownership_id": "admin_tool",
       "installable": true
     }
