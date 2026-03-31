@@ -29,6 +29,20 @@
       "ownership_id": "elixr_slotted",
       "installable": true,
       "type": "tool"
+    },
+    {
+      "id": "admin_tool",
+      "title": "ELIXR Admin",
+      "subtitle": "Administrative console",
+      "price": "Internal",
+      "image": "https://yourcdn.com/admin_tool.jpg",
+      "url": "",
+      "enabled": true,
+      "tag": "ADMIN",
+      "description": "Manage users, permissions, logs, and moderation tools for ELIXR.",
+      "groups": ["admin"],
+      "ownership_id": "admin_tool",
+      "installable": true
     }
   ]
 }
