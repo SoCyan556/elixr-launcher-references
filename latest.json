@@ -21,6 +21,6 @@
       "url": "https://github.com/elixr_admintool/releases/download/v1.0.0/AdminTool.zip",
       "exe_name": "AdminTool.exe",
       "install_folder": "elixradmin"
-    },
+    }
   }
 }
