@@ -35,14 +35,15 @@
       "title": "ELIXR Admin",
       "subtitle": "Administrative console",
       "price": "Internal",
-      "image": "https://yourcdn.com/admin_tool.jpg",
+      "image": "https://your-real-image-url/admin_tool.jpg",
       "url": "",
       "enabled": true,
       "tag": "ADMIN",
       "description": "Manage users, permissions, logs, and moderation tools for ELIXR.",
       "groups": ["admin", "administrator", "mod"],
       "ownership_id": "admin_tool",
-      "installable": true
+      "installable": true,
+      "type": "tool"
     }
   ]
 }
