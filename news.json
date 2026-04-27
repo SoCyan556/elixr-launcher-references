@@ -1,1 +1,26 @@
-
+[
+  {
+    "type": "News",
+    "title": "ELIXR Transparency Report",
+    "subtitle": "Latest tool information and updates",
+    "date": "2026-04-24",
+    "body": "Hello ELIXR Users!\nThis is the new Announcements and News section of the tool!\nThis is going to be used for all updates, announcements and news about the tool to remove the obligation to join the discord server for updates.",
+    "url": ""
+  },
+  {
+    "type": "Announcement",
+    "title": "ELIXR Transparency Report",
+    "subtitle": "Announcements and important notices",
+    "date": "2026-04-24",
+    "body": "Hello ELIXR Users!\nThis is the new Announcements and News section of the tool!\nThis is going to be used for all updates, announcements and news about the tool to remove the obligation to join the discord server for updates.",
+    "url": ""
+  },
+  {
+    "type": "Release",
+    "title": "ELIXR Transparency Report",
+    "subtitle": "Release notes and changelog",
+    "date": "2026-04-24",
+    "body": "Hello ELIXR Users!\nThis is the new Announcements and News section of the tool!\nThis is going to be used for all updates, announcements and news about the tool to remove the obligation to join the discord server for updates.",
+    "url": ""
+  }
+]
