@@ -3,24 +3,17 @@
     "version": "2.0.3",
     "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v2.0.3/ELIXRLauncher.zip"
   },
-  "products": {
-    "vrtool": {
-      "version": "2.3.1",
-      "url": "https://github.com/SoCyan556/elixr-vrtool/releases/download/v2.3.1/VRTool.zip",
-      "exe_name": "VRTool.exe",
-      "install_folder": "elixrvrtool"
+
+  "downloads": {
+    "installer": {
+      "label": "Installer",
+      "version": "2.0.3",
+      "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v2.0.3/ELIXRLauncherSetup.exe"
     },
-    "elixr_slotted": {
-      "version": "1.0.0",
-      "url": "https://.../ELIXRSlotted.zip",
-      "exe_name": "ELIXRSlotted.exe",
-      "install_folder": "elixr_slotted"
-    },
-    "admin_tool": {
-      "version": "1.2.0",
-      "url": "https://github.com/SoCyan556/elixr_admintool/releases/download/v1.0.0/AdminTool.zip",
-      "exe_name": "AdminTool.exe",
-      "install_folder": "elixradmin"
+    "portable": {
+      "label": "Portable EXE",
+      "version": "2.0.3",
+      "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v2.0.3/ELIXRLauncher.zip"
     }
   }
 }
