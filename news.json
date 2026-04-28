@@ -20,7 +20,7 @@
     "title": "ELIXR Transparency Report",
     "subtitle": "Release notes and changelog",
     "date": "2026-04-24",
-    "body": "Hello ELIXR Users!\nThis is the new Announcements and News section of the tool!\nThis is going to be used for all updates, announcements and news about the tool to remove the obligation to join the discord server for updates.",
+    "body": "*VRTool Update 2.5.0*\n- Major UI Overhaul\n- Changed sidebar organization and layout\n- Added greeting card on top bar\n- Overlay toggle and theme toggle were moved above the log out button\n- Heavily improved log system\n- Improved profiling for VRChat users\n- Improved user accessibility & user friendliness",
     "url": ""
   }
 ]
