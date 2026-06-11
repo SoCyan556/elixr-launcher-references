@@ -1,19 +1,19 @@
 {
   "launcher": {
-    "version": "3.0.0",
-    "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v3.0.0/ELIXRLauncher.zip"
+    "version": "3.0.1",
+    "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v3.0.1/ELIXRLauncher.zip"
   },
 
   "downloads": {
     "installer": {
       "label": "Installer",
       "version": "3.0.0",
-      "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v3.0.0/ELIXRLauncherSetup.zip"
+      "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v3.0.1/ELIXRLauncherSetup.zip"
     },
     "portable": {
       "label": "Portable EXE",
       "version": "3.0.0",
-      "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v3.0.0/ELIXRLauncher.zip"
+      "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v3.0.1/ELIXRLauncher.zip"
     }
   }
 }
