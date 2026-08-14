@@ -7,8 +7,8 @@
   "downloads": {
     "installer": {
       "label": "Installer",
-      "version": "3.2.0",
-      "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v3.2.0/ELIXRLauncherSetup.exe"
+      "version": "3.2.1",
+      "url": "https://github.com/SoCyan556/elixr-launcher-references/releases/download/v3.2.1/ELIXRLauncherSetup.exe"
     },
     "portable": {
       "label": "Portable EXE",
